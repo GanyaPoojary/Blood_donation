@@ -5,7 +5,7 @@ Developed a desktop application to manage donor and recipient data with CRUD ope
 - Displays the administrator’s control panel.
 - Provides access to manage blood donation records, users, and system settings.
 - Ensures smooth monitoring and management of the platform.
-![image alt](https://github.com/GanyaPoojary/Blood_donation/blob/main/admin.png)
+![image alt](https://github.com/GanyaPoojary/Blood_donation/blob/main/homepage_blood_donate.png)
 
 2. CRUD Operations
 - Demonstrates Create, Read, Update, and Delete functionalities.
